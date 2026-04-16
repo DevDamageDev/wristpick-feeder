@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "updated": "2026-04-16",
+  "sections": [
+    {
+      "title": "Suggested Channels",
+      "resources": [
+        {
+          "name": "Teddy Baldassarre",
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@TeddyBaldassarre",
+          "description": "In-depth reviews, comparisons, and buying guides across all price ranges"
+        },
+        {
+          "name": "Jenni Elle",
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@JenniElle",
+          "description": "Watch reviews with a focus on everyday wearability and honest opinions"
+        },
+        {
+          "name": "Just One More Watch",
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@JustOneMoreWatch",
+          "description": "Enthusiast reviews with personality, covering affordable to luxury"
+        },
+        {
+          "name": "Bark and Jack",
+          "platform": "youtube",
+          "url": "https://www.youtube.com/@BarkandJack",
+          "description": "Beautifully filmed reviews with a focus on design and value"
+        }
+      ]
+    },
+    {
+      "title": "News & Editorial",
+      "resources": [
+        {
+          "name": "Hodinkee",
+          "platform": "blog",
+          "url": "https://www.hodinkee.com",
+          "description": "The leading online watch publication covering news, reviews, and culture"
+        },
+        {
+          "name": "Fratello Watches",
+          "platform": "blog",
+          "url": "https://www.fratellowatches.com",
+          "description": "Watch journalism with deep dives into brands, history, and collecting"
+        },
+        {
+          "name": "Worn & Wound",
+          "platform": "blog",
+          "url": "https://wornandwound.com",
+          "description": "Reviews and articles focused on accessible and independent watchmaking"
+        }
+      ]
+    },
+    {
+      "title": "Community",
+      "resources": [
+        {
+          "name": "Hodinkee",
+          "platform": "instagram",
+          "url": "https://www.instagram.com/hodinkee",
+          "description": "Daily watch photography and news highlights"
+        },
+        {
+          "name": "Watchville",
+          "platform": "blog",
+          "url": "https://watchville.co",
+          "description": "Watch news aggregator pulling from all major publications"
+        }
+      ]
+    }
+  ]
+}
