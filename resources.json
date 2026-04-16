@@ -3,25 +3,25 @@
   "updated": "2026-04-16",
   "sections": [
     {
-      "title": "Suggested Channels",
+      "title": "Recommended videos",
       "resources": [
         {
-          "name": "Teddy Baldassarre",
+          "name": "Teddy Baldassarre: Seiko Replaced Its Best-Selling Chronograph",
           "platform": "youtube",
-          "url": "https://www.youtube.com/@TeddyBaldassarre",
-          "description": "In-depth reviews, comparisons, and buying guides across all price ranges"
+          "url": "https://youtu.be/HOwgFlhCzHM?si=6A96kEnJU2n4JaPU",
+          "description": ""
         },
         {
-          "name": "Just One More Watch",
+          "name": "Just One More Watch: Glycine Is Back! Airpilot 41 Review!",
           "platform": "youtube",
-          "url": "https://www.youtube.com/@JustOneMoreWatch",
-          "description": "Enthusiast reviews with personality, covering affordable to luxury"
+          "url": "https://youtu.be/i5EX9hta5yE?si=FbHetER8Gi3UAqDZ",
+          "description": ""
         },
         {
-          "name": "Bark and Jack",
+          "name": "Adrian Barker: The Ejection Seat and Rolex that made aviation history",
           "platform": "youtube",
-          "url": "https://www.youtube.com/@BarkandJack",
-          "description": "Beautifully filmed reviews with a focus on design and value"
+          "url": "https://youtu.be/xJ7nsrlgH2s?si=1BYyzHzyk4JWKl5I",
+          "description": ""
         }
       ]
     },
@@ -51,6 +51,12 @@
     {
       "title": "Community",
       "resources": [
+        {
+          "name": "WatchUSeek Watch Forums",
+          "platform": "forum",
+          "url": "https://www.watchuseek.com/forums/",
+          "description": ""
+        },
         {
           "name": "Hodinkee",
           "platform": "instagram",
