@@ -56,12 +56,6 @@
           "platform": "forum",
           "url": "https://www.watchuseek.com/forums/",
           "description": ""
-        },
-        {
-          "name": "Watchville",
-          "platform": "blog",
-          "url": "https://watchville.co",
-          "description": "Watch news aggregator pulling from all major publications"
         }
       ]
     }
