@@ -31,20 +31,20 @@
         {
           "name": "Hodinkee",
           "platform": "blog",
-          "url": "https://www.hodinkee.com",
-          "description": "The leading online watch publication covering news, reviews, and culture"
+          "url": "https://www.hodinkee.com/articles/breaking-rolex-pepsi-discontinued",
+          "description": "Rolex Has Officially Discontinued The “Pepsi” GMT-Master II & “Cookie Monster” Submariner Date"
         },
         {
           "name": "Fratello Watches",
           "platform": "blog",
-          "url": "https://www.fratellowatches.com",
-          "description": "Watch journalism with deep dives into brands, history, and collecting"
+          "url": "https://www.fratellowatches.com/tag-heuer-comes-out-swinging-with-new-monaco-chronographs/",
+          "description": "TAG Heuer Comes Out Swinging With New Monaco Chronographs"
         },
         {
           "name": "Worn & Wound",
           "platform": "blog",
-          "url": "https://wornandwound.com",
-          "description": "Reviews and articles focused on accessible and independent watchmaking"
+          "url": "https://wornandwound.com/review/review-the-g-shock-dw-5600mnc-with-fidlock-clasp/",
+          "description": "Review: the G-SHOCK DW-5600MNC with FIDLOCK Clasp"
         }
       ]
     },
@@ -56,12 +56,6 @@
           "platform": "forum",
           "url": "https://www.watchuseek.com/forums/",
           "description": ""
-        },
-        {
-          "name": "Hodinkee",
-          "platform": "instagram",
-          "url": "https://www.instagram.com/hodinkee",
-          "description": "Daily watch photography and news highlights"
         },
         {
           "name": "Watchville",
