@@ -1,16 +1,10 @@
 {
   "version": 1,
-  "updated": "2026-04-16",
+  "updated": "2026-04-22",
   "sections": [
     {
       "title": "Recommended videos",
       "resources": [
-        {
-          "name": "Teddy Baldassarre",
-          "platform": "youtube",
-          "url": "https://youtu.be/HOwgFlhCzHM?si=6A96kEnJU2n4JaPU",
-          "description": "Seiko Replaced Its Best-Selling Chronograph"
-        },
         {
           "name": "Just One More Watch",
           "platform": "youtube",
@@ -22,6 +16,12 @@
           "platform": "youtube",
           "url": "https://youtu.be/xJ7nsrlgH2s?si=1BYyzHzyk4JWKl5I",
           "description": "The Ejection Seat and Rolex that made aviation history"
+        },
+        {
+          "name": "Weekend Watch Repair",
+          "platform": "youtube",
+          "url": "https://youtu.be/x7yXUcmhkrQ?si=oUvHA5wDALZhtC-n",
+          "description": "This Rolex Was Worn for Decades and Never Opened...Until Now"
         }
       ]
     },
@@ -32,7 +32,7 @@
           "name": "Hodinkee",
           "platform": "blog",
           "url": "https://www.hodinkee.com/articles/breaking-rolex-pepsi-discontinued",
-          "description": "Rolex Has Officially Discontinued The “Pepsi” GMT-Master II & “Cookie Monster” Submariner Date"
+          "description": "Rolex Has Officially Discontinued The âPepsiâ GMT-Master II & âCookie Monsterâ Submariner Date"
         },
         {
           "name": "Fratello Watches",
