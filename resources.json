@@ -6,6 +6,12 @@
       "title": "Recommended videos",
       "resources": [
         {
+          "name": "This Watch, That Watch",
+          "platform": "youtube",
+          "url": "https://youtu.be/wFhQuDdW6lE?si=qgkLEC1BCInUR4SB",
+          "description": "What your luxury watch REALLY says about you"
+        },
+        {
           "name": "The Urban Gentry",
           "platform": "youtube",
           "url": "https://youtu.be/9295MltkIYM?si=6rj3EgHqO_XpE2Yf",
@@ -34,12 +40,6 @@
     {
       "title": "News & Editorial",
       "resources": [
-        {
-          "name": "Hodinkee",
-          "platform": "blog",
-          "url": "https://www.hodinkee.com/articles/breaking-rolex-pepsi-discontinued",
-          "description": "Rolex Has Officially Discontinued The Ã¢ÂÂPepsiÃ¢ÂÂ GMT-Master II & Ã¢ÂÂCookie MonsterÃ¢ÂÂ Submariner Date"
-        },
         {
           "name": "Fratello Watches",
           "platform": "blog",
