@@ -1,10 +1,16 @@
 {
   "version": 1,
-  "updated": "2026-04-22",
+  "updated": "2026-04-28",
   "sections": [
     {
       "title": "Recommended videos",
       "resources": [
+        {
+          "name": "The Urban Gentry",
+          "platform": "youtube",
+          "url": "https://youtu.be/9295MltkIYM?si=6rj3EgHqO_XpE2Yf",
+          "description": "Unboxing A REAL James Bond Watch + Hamilton's New Khaki King & The Ultimate 36mm Mechanical"
+        },
         {
           "name": "Just One More Watch",
           "platform": "youtube",
@@ -32,7 +38,7 @@
           "name": "Hodinkee",
           "platform": "blog",
           "url": "https://www.hodinkee.com/articles/breaking-rolex-pepsi-discontinued",
-          "description": "Rolex Has Officially Discontinued The âPepsiâ GMT-Master II & âCookie Monsterâ Submariner Date"
+          "description": "Rolex Has Officially Discontinued The Ã¢ÂÂPepsiÃ¢ÂÂ GMT-Master II & Ã¢ÂÂCookie MonsterÃ¢ÂÂ Submariner Date"
         },
         {
           "name": "Fratello Watches",
