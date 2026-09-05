@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-05-10",
+  "updated": "2026-09-05",
   "sections": [
     {
       "title": "Recommended videos",
@@ -8,32 +8,20 @@
         {
           "name": "The Urban Gentry",
           "platform": "youtube",
-          "url": "https://youtu.be/_T5lvvT_shk?si=0tp6m_BGotfNFyK-",
-          "description": "Seiko's Best Automatic Dive Watch Under $1000 & My Journey From SKX007 To A Perfect Willard & Beyond"
+          "url": "https://youtu.be/g2p7IRCt-pY?si=Xhf9DkgQfE-_JHWg",
+          "description": "The Untold Story Of The Tuna, Turtle & Willard: How Seiko Created The Best Diver Watches From $500+"
         },
         {
           "name": "This Watch, That Watch",
           "platform": "youtube",
-          "url": "https://youtu.be/wFhQuDdW6lE?si=qgkLEC1BCInUR4SB",
-          "description": "What your luxury watch REALLY says about you"
+          "url": "https://youtu.be/x5J6t7iQDK4?si=ebUwqbcfaIWmn9Eg",
+          "description": "Alpina Startimer: A new challenger in Pilot watches"
         },
         {
-          "name": "Just One More Watch",
+          "name": "Wristwatch Revival",
           "platform": "youtube",
-          "url": "https://youtu.be/i5EX9hta5yE?si=FbHetER8Gi3UAqDZ",
-          "description": "Glycine Is Back! Airpilot 41 Review!"
-        },
-        {
-          "name": "Adrian Barker",
-          "platform": "youtube",
-          "url": "https://youtu.be/xJ7nsrlgH2s?si=1BYyzHzyk4JWKl5I",
-          "description": "The Ejection Seat and Rolex that made aviation history"
-        },
-        {
-          "name": "Weekend Watch Repair",
-          "platform": "youtube",
-          "url": "https://youtu.be/x7yXUcmhkrQ?si=oUvHA5wDALZhtC-n",
-          "description": "This Rolex Was Worn for Decades and Never Opened...Until Now"
+          "url": "https://youtu.be/qBoAT_AJ0Yw?si=Q6_3TT1pL1BPYqP0",
+          "description": "Restoring a Rusty Kingston Datofix Triple Calendar Moonphase"
         }
       ]
     },
