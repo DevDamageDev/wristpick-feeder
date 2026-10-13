@@ -1,10 +1,16 @@
 {
   "version": 1,
-  "updated": "2026-09-05",
+  "updated": "2026-10-13",
   "sections": [
     {
       "title": "Recommended videos",
       "resources": [
+        {
+          "name": "Andrew Morgan Watches",
+          "platform": "youtube",
+          "url": "https://youtu.be/PIzo7ILPzvQ?si=3VbpaFmkIf3XtEhO",
+          "description": "Why Seiko Is Absolutely GOATed"
+        },
         {
           "name": "The Urban Gentry",
           "platform": "youtube",
@@ -16,12 +22,6 @@
           "platform": "youtube",
           "url": "https://youtu.be/x5J6t7iQDK4?si=ebUwqbcfaIWmn9Eg",
           "description": "Alpina Startimer: A new challenger in Pilot watches"
-        },
-        {
-          "name": "Wristwatch Revival",
-          "platform": "youtube",
-          "url": "https://youtu.be/qBoAT_AJ0Yw?si=Q6_3TT1pL1BPYqP0",
-          "description": "Restoring a Rusty Kingston Datofix Triple Calendar Moonphase"
         }
       ]
     },
