@@ -1,10 +1,16 @@
 {
   "version": 1,
-  "updated": "2026-10-30",
+  "updated": "2026-10-31",
   "sections": [
     {
       "title": "Recommended videos",
       "resources": [
+        {
+          "name": "This Watch, That Watch",
+          "platform": "youtube",
+          "url": "https://youtu.be/fOwn2wv--HU?si=n1lyfMjk10PvARDO",
+          "description": "Modern watches that will be future classics & icons"
+        },
         {
           "name": "Teddy Baldassarre",
           "platform": "youtube",
@@ -22,12 +28,6 @@
           "platform": "youtube",
           "url": "https://youtu.be/g2p7IRCt-pY?si=Xhf9DkgQfE-_JHWg",
           "description": "The Untold Story Of The Tuna, Turtle & Willard: How Seiko Created The Best Diver Watches From $500+"
-        },
-        {
-          "name": "This Watch, That Watch",
-          "platform": "youtube",
-          "url": "https://youtu.be/x5J6t7iQDK4?si=ebUwqbcfaIWmn9Eg",
-          "description": "Alpina Startimer: A new challenger in Pilot watches"
         }
       ]
     },
