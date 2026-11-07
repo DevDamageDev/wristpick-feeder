@@ -1,10 +1,16 @@
 {
   "version": 1,
-  "updated": "2026-10-31",
+  "updated": "2026-11-07",
   "sections": [
     {
       "title": "Recommended videos",
       "resources": [
+        {
+          "name": "Teddy Baldassarre",
+          "platform": "youtube",
+          "url": "https://youtu.be/fHaTF09hUsE?si=t_vKTxHp3ONChKgy",
+          "description": "Everything To Know Before Buying A Pilot Watch"
+        },
         {
           "name": "This Watch, That Watch",
           "platform": "youtube",
